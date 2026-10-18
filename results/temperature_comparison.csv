@@ -1,0 +1,9 @@
+model,temperature,mean_consistency,mean_text_similarity,mean_json_validity
+llama3,0.0,1.0,1.0,0.0
+llama3,0.3,1.0,1.0,0.0
+llama3,0.7,1.0,1.0,0.0
+llama3,1.0,1.0,1.0,0.0
+qwen2.5,0.0,1.0,1.0,0.0
+qwen2.5,0.3,1.0,1.0,0.0
+qwen2.5,0.7,1.0,1.0,0.0
+qwen2.5,1.0,1.0,1.0,0.0
